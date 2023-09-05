@@ -8,5 +8,8 @@
             "email": "viniciuscarrocine@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/dom-crawler": "^6.0",
+        "guzzlehttp/guzzle": "^7.8"
+    }
 }
