@@ -3,7 +3,7 @@
         'name' => 'vnchub/buscador-cursos',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '0eff8df6f8d70c9b08e05cb48b55c9c976adf326',
+        'reference' => '6e4372a4aaca8b945f5f1327b7b0d83208ffe2a3',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -91,6 +91,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'symfony/css-selector' => array(
+            'pretty_version' => 'v6.3.2',
+            'version' => '6.3.2.0',
+            'reference' => '883d961421ab1709877c10ac99451632a3d6fa57',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/css-selector',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'symfony/deprecation-contracts' => array(
             'pretty_version' => 'v3.3.0',
             'version' => '3.3.0.0',
@@ -130,7 +139,7 @@
         'vnchub/buscador-cursos' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '0eff8df6f8d70c9b08e05cb48b55c9c976adf326',
+            'reference' => '6e4372a4aaca8b945f5f1327b7b0d83208ffe2a3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
