@@ -1,0 +1,6 @@
+{
+    "name": "vnchub/buscador-cursos",
+    "description": "Projeto de busca de cursos no site da Alura",
+    "type": "library",
+    "require": {}
+}
