@@ -15,6 +15,10 @@ class ComposerStaticInit41c077ba44e0fe997dba69368f6b6ace
     );
 
     public static $prefixLengthsPsr4 = array (
+        'V' => 
+        array (
+            'VNCHub\\BuscadorDeCursos\\' => 24,
+        ),
         'S' => 
         array (
             'Symfony\\Polyfill\\Mbstring\\' => 26,
@@ -36,6 +40,10 @@ class ComposerStaticInit41c077ba44e0fe997dba69368f6b6ace
     );
 
     public static $prefixDirsPsr4 = array (
+        'VNCHub\\BuscadorDeCursos\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
+        ),
         'Symfony\\Polyfill\\Mbstring\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-mbstring',
